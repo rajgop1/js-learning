@@ -2,7 +2,7 @@
 Currying is a process in which we convert a function with multiple argument to multiple function with single argument
 
 ## Example:
-	`
+`
    function sum(a,b){
      return a+b
    }
